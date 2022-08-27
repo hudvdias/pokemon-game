@@ -1,4 +1,4 @@
-# Pokedex
+# Pokemon Game
 
 This project was created to test some new tools that we need implement on other projects.
 
