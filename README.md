@@ -12,7 +12,7 @@ This project was created to test some new tools that we need implement on other 
 
 ### Creating a new page/route
 
-1. Create a new file on `pages` folder, just with calling the layout file.
+1. Create a new file on `pages` folder, just with calling the layout file and `<Head />` tag.
 2. Create a new folder on `screens` folder to keep the page's layout.
 3. Create new folders to pages components at `components` folder to minimize the screens files.
 
